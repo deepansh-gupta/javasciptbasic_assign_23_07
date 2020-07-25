@@ -1,1 +1,2 @@
-# javasciptbasic_assign_23_07
+learn and implement basic concept of javascript 
+concepts ike - variable , math method , functions , typeof etc...
